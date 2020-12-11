@@ -1,5 +1,5 @@
 # Lost-Knight
-A point and click game demo where the knight has multiple attacks and tries to defeat AI enemies.
+A point and click game demo where a lost knight tries to escape a graveyard and faces multiple AI enemies.
 </br>
 Developped in Unity engine with C#.
 </br>
